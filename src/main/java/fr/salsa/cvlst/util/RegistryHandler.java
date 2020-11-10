@@ -13,8 +13,9 @@ public class RegistryHandler {
     public static void init(){
         ModItems.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
         ModBlocks.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
-        ModBiomes.BIOMES.register(FMLJavaModLoadingContext.get().getModEventBus());
         ModFeatures.FEATURES.register(FMLJavaModLoadingContext.get().getModEventBus());
+        ModFeatures.FEATURES.register(FMLJavaModLoadingContext.get().getModEventBus());
+        ModBiomes.BIOMES.register(FMLJavaModLoadingContext.get().getModEventBus());
 
     }
 
