@@ -17,7 +17,8 @@ public class LupunaTree extends Tree {
     public static final TreeFeatureConfig lupunaTreeConfig = (new TreeFeatureConfig.Builder(
             new SimpleBlockStateProvider(ModBlocks.LUPUNA_LOG.get().getDefaultState()),
             new SimpleBlockStateProvider(ModBlocks.LUPUNA_LEAVE.get().getDefaultState()),
-            new BlobFoliagePlacer(3, 0))).baseHeight(13).heightRandA(3).setSapling((IPlantable)ModBlocks.LUPUNA_SAPLING.get()).build();
+            new BlobFoliagePlacer(3, 0))).baseHeight(13).heightRandA(3).trunkHeight(11)
+            .foliageHeight(3).setSapling((IPlantable)ModBlocks.LUPUNA_SAPLING.get()).build();
 
 
     @Override

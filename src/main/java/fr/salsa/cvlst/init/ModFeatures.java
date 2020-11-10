@@ -1,7 +1,7 @@
 package fr.salsa.cvlst.init;
 
 import fr.salsa.cvlst.ModMain;
-import fr.salsa.cvlst.world.feature.tree.LupunaTreeFeature;
+import fr.salsa.cvlst.world.feature.LupunaTreeFeature;
 import net.minecraft.world.gen.feature.Feature;
 import net.minecraft.world.gen.feature.TreeFeatureConfig;
 import net.minecraftforge.fml.RegistryObject;
