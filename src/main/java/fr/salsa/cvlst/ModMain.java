@@ -37,7 +37,6 @@ public class ModMain {
         instance = this;
         MinecraftForge.EVENT_BUS.register(this);
 
-
     }
 
     @SubscribeEvent
