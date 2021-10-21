@@ -1,1 +1,3 @@
-Here is the Civilisations mod, I'm curently working on it and it will maybe be realseased one day... I don't know when... Thank's to Neilrom for helping me on the textures!
+This project is currently paused, maybe I'll come back to it some day...
+
+Here is the Civilisations mod for Minecraft, I'm curently working on it and it will maybe be realseased one day... I don't know when... Thank's to Neilrom for helping me on the textures!
